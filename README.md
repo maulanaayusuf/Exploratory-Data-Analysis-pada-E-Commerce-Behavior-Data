@@ -23,7 +23,7 @@ Data yang digunakan kali ini berisi data perilaku konsumen selama bulan Oktober 
 
 
 Dari seluruh pengunjung toko, yang memasukan ke keranjang sebanyak 3,27% dan yang melakukan pembelian sebanyak 3.03%. 
-**Jika dikonversikan dari keranjang ke pembelian maka akan menghasilkan 92,73% yang artinya sebagian besar produk yang dimasukan ke keranjang akan dibeli oleh konsumen
+**Jika dikonversikan dari keranjang ke pembelian maka akan menghasilkan 92,73% yang artinya sebagian besar produk yang dimasukan ke keranjang akan dibeli oleh konsumen**
 
 
 
